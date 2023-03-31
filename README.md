@@ -1,5 +1,5 @@
 ## Watch These Now!
-- [ACTIVE DEFENSE & Cyber Deception - with John Strand! - Single](https://www.youtube.com/watch?v=7LXfBSuaFFE)
+- [ACTIVE DEFENSE & Cyber Deception - with John Strand!](https://www.youtube.com/watch?v=7LXfBSuaFFE)
 - [Getting Started in Cyber Deception - YouTube](https://www.youtube.com/watch?v=cCxbBz1UbnA)
 ### Free Open Source Intelligence (OSINT) Tools
 #### Static Malware Analysis - URL's, IP's, And File Hashes
