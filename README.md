@@ -441,7 +441,7 @@
 - [Hak5 - Creators of Many Pentesting Gadgets and have a wealth of advice for how to use them - YouTube](https://www.youtube.com/@hak5)
 - [IppSec - Provides many CTF Walkthroughs - YouTube](https://www.youtube.com/@ippsec)
 - [The Cyber Mentor - Many Free Full-Length Courses for pentesting, OSINT, and Python featured on channel - YouTube](https://www.youtube.com/c/TheCyberMentor?app=desktop)
-- [STÖK | HACKER | CREATIVE](https://www.stokfredrik.com/)
+- [STÖK | HACKER | CREATIVE - Pentest Tutorials & Bug Bounty Advice - YouTube ](https://www.youtube.com/@STOKfredrik)
 #### Cisco informational videos
 - [Cisco Ransomware Defense - YouTube](https://www.youtube.com/watch?v=5Gc2C89pZ-c)
 #### Building A Home Lab
