@@ -428,7 +428,7 @@
 - [Black Hills Information Security - Pay what you Can Courses & Many Very informative Free Webcasts from experts - YouTube](https://www.youtube.com/@BlackHillsInformationSecurity)
 - [Cyber Insecurity - Cybersecurity & Pentesting Tips from a Ex-NSA Hacker - Great videos on Linkedin Tips as well - YouTube](https://www.youtube.com/@CyberInsecurity)
 - [Gerald Auger, PhD - Simply Cyber - GRC and SOC Analyst Overviews and Interviews - YouTube](https://www.youtube.com/@SimplyCyber)
-- [John Hammond - Malware Analysis & Straightforward technical walkthrough videos  - YouTube](https://www.youtube.com/c/TheCyberMentor?app=desktop)
+- [John Hammond - Malware Analysis & Straightforward technical walkthrough videos  - YouTube](https://www.youtube.com/@_JohnHammond)
 - [Josh Madakor - Tech, Education, Career - Videos about Breaking into IT & Cybersecurity As well as how to quickly get Bachelors from WGU - YouTube](https://www.youtube.com/@JoshMadakor)
 - [NetworkChuck - Anything and everything Network related, Free CCNA course & Many hacking videos - YouTube](https://www.youtube.com/@NetworkChuck)
 - [David Bombal  - Anything and everything Network related as well, Many career videos as well - YouTube](https://www.youtube.com/@davidbombal)
