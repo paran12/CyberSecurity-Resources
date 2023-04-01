@@ -425,7 +425,22 @@
 #### Linux
 - [Linux - Tutorial for Beginners in 13 MINUTES! [ UPDATED ] - YouTube](https://www.youtube.com/watch?v=BMGixkvJ-6w)
 #### Channels to Follow
-- [The Cyber Mentor - YouTube](https://www.youtube.com/c/TheCyberMentor?app=desktop)
+- [Black Hills Information Security - Pay what you Can Courses & Many Very informative Free Webcasts from experts - YouTube](https://www.youtube.com/@BlackHillsInformationSecurity)
+- [Cyber Insecurity - Cybersecurity & Pentesting Tips from a Ex-NSA Hacker - Great videos on Linkedin Tips as well - YouTube](https://www.youtube.com/@CyberInsecurity)
+- [Gerald Auger, PhD - Simply Cyber - GRC and SOC Analyst Overviews and Interviews - YouTube](https://www.youtube.com/@SimplyCyber)
+- [John Hammond - Malware Analysis & Straightforward technical walkthrough videos  - YouTube](https://www.youtube.com/c/TheCyberMentor?app=desktop)
+- [Josh Madakor - Tech, Education, Career - Videos about Breaking into IT & Cybersecurity As well as how to quickly get Bachelors from WGU - YouTube](https://www.youtube.com/@JoshMadakor)
+- [NetworkChuck - Anything and everything Network related, Free CCNA course & Many hacking videos - YouTube](https://www.youtube.com/@NetworkChuck)
+- [David Bombal  - Anything and everything Network related as well, Many career videos as well - YouTube](https://www.youtube.com/@davidbombal)
+- [Sandra - Tech & Lifestyle - Software Engineer to Cybersecurity Advice - YouTube](https://www.youtube.com/@WithSandra)
+- [Doug Does Tech - Everything related to Microsoft 365 Administration - YouTube](https://www.youtube.com/@DougDoesTech)
+- [Cyberspatial - CyberSecurity Career Advice - YouTube](https://www.youtube.com/@Cyberspatial/videos)
+- [Black Hat - Many Full-Length Presentations from BlackHat Security Conference Posted Online -  YouTube](https://www.youtube.com/@BlackHatOfficialYT)
+- [Basically Homeless - Very Funny & generally Entertaining Videos to Introduce Cybersecurity & Malware - YouTube](https://www.youtube.com/@BasicallyHomeless)
+- [Mental Outlaw - More Funny Less formal Videos on Cybersecurity - YouTube](https://www.youtube.com/@MentalOutlaw)
+- [Hak5 - Creators of Many Pentesting Gadgets and have a wealth of advice for how to use them - YouTube](https://www.youtube.com/@hak5)
+- [IppSec - Provides many CTF Walkthroughs - YouTube](https://www.youtube.com/@ippsec)
+- [The Cyber Mentor - Many Free Full-Length Courses for pentesting, OSINT, and Python featured on channel - YouTube](https://www.youtube.com/c/TheCyberMentor?app=desktop)
 - [STÖK | HACKER | CREATIVE](https://www.stokfredrik.com/)
 #### Cisco informational videos
 - [Cisco Ransomware Defense - YouTube](https://www.youtube.com/watch?v=5Gc2C89pZ-c)
