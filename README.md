@@ -10,7 +10,7 @@
   - [Dynamic Analysis - Malware Sandbox](#dynamic-analysis---malware-sandbox)
   - [Breach Checkers](#breach-checkers)
   - [Translator](#translator)
-  - [Malware Creation - Use at YOUR own Risk - **Do not ** use for Illegal or Malicious Activities](#Malware Creation - Use at YOUR own Risk - **Do not ** use for Illegal or Malicious Activities)
+  - [Malware Creation - Use at YOUR own Risk - **Do not** use for Illegal or Malicious Activities](#malware-creation---use-at-your-own-risk---do-not--use-for-illegal-or-malicious-activities)
   - [Marketing Research OSINT to use on companies](#marketing-research-osint-to-use-on-companies)
   - [General OSINT Tools](#general-osint-tools)
 - [Threat Maps](#threat-maps)
