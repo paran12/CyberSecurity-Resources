@@ -1,3 +1,4 @@
+📚 **Table of Contents** 📚
 - [Watch These Now!](#watch-these-now)
 - [Free Open Source Intelligence (OSINT) Tools](#free-open-source-intelligence-osint-tools)
   - [Static Malware Analysis - URL's, IP's, And File Hashes](#static-malware-analysis---urls-ips-and-file-hashes)
