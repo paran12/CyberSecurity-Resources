@@ -1,5 +1,5 @@
 📚 **Table of Contents** 📚
-- [Watch These Now!](#watch-these-now)
+- [Watch These Now! (Includes links from presentation)](#watch-these-now-includes-links-from-presentation)
 - [Free Open Source Intelligence (OSINT) Tools](#free-open-source-intelligence-osint-tools)
   - [Static Malware Analysis - URL's, IP's, And File Hashes](#static-malware-analysis---urls-ips-and-file-hashes)
   - [Malware Samples Websites](#malware-samples-websites)
@@ -58,7 +58,7 @@
 - [Job Sites](#job-sites)
 - [Regular Expressions (REGEX) Resources](#regular-expressions-regex-resources)
 
-## Watch These Now!
+## Watch These Now! (Includes links from presentation)
 - **Job Hunting** - [BlackHillsInformationSecurity How to Hunt for Jobs like a Hacker w/ Jason Blanchard (& a separate 5-part series)](https://www.youtube.com/watch?v=Air1c697tjw)
 - **Getting into IT** - [Josh Madakor's YouTube Channel](https://www.youtube.com/@JoshMadakor)
 - **Penetration Tester** - [Hak5 YouTube Channel](https://www.youtube.com/@hak5) & [TCM Security Academy YouTube Channel](https://www.youtube.com/@TCMSecurityAcademy)
