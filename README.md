@@ -43,7 +43,6 @@
   - [General Cybersecurity Videos](#general-cybersecurity-videos)
 - [Potential Certifications to look at](#potential-certifications-to-look-at)
   - [Gerald Auger Top 5 Cybersecurity Certifications for Beginners - Massive AMA](#gerald-auger-top-5-cybersecurity-certifications-for-beginners---massive-ama)
-- [Funny / Fun Cybersecurity Websites](#funny--fun-cy
 - [Funny / Fun Cybersecurity Websites](#funny--fun-cybersecurity-websites)
 - [Non-Free Cyber Tools](#non-free-cyber-tools)
 - [Bug Bounty](#bug-bounty)
