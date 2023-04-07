@@ -59,6 +59,13 @@
 - [Regular Expressions (REGEX) Resources](#regular-expressions-regex-resources)
 
 ## Watch These Now!
+- **Job Hunting** - [BlackHillsInformationSecurity How to Hunt for Jobs like a Hacker w/ Jason Blanchard (& a separate 5-part series)](https://www.youtube.com/watch?v=Air1c697tjw)
+- **Getting into IT** - [Josh Madakor's YouTube Channel](https://www.youtube.com/@JoshMadakor)
+- **Penetration Tester** - [Hak5 YouTube Channel](https://www.youtube.com/@hak5) & [TCM Security Academy YouTube Channel](https://www.youtube.com/@TCMSecurityAcademy)
+- **Malware Analyst** - [John Hammond's YouTube Channel](https://www.youtube.com/@_JohnHammond)
+- **Risk Analyst** - [SimplyCyber YouTube Channel (Also has a SOC Analyst playlist)](https://www.youtube.com/@SimplyCyber)
+- **Cybersecurity Sales** - [CourseCareers - Sales](https://coursecareers.com/explore/sales) & [Alex Hormozi's YouTube Channel](https://www.youtube.com/@AlexHormozi)
+- **Chief Information Security Officer (CISO)** - [CyberInsecurity - CISO Interviews](https://www.youtube.com/@CyberInsecurity)
 - [ACTIVE DEFENSE & Cyber Deception - with John Strand!](https://www.youtube.com/watch?v=7LXfBSuaFFE)
 - [Getting Started in Cyber Deception - YouTube](https://www.youtube.com/watch?v=cCxbBz1UbnA)
 ### Free Open Source Intelligence (OSINT) Tools
