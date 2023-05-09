@@ -1,5 +1,7 @@
-remote_theme: pages-themes/midnight@v0.2.0
+title: CyberSecurity Resources
+theme: jekyll-theme-midnight
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [CyberSecurity-Resources]
-description: [Curated List of Various useful Cybersecurity Resources]
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+markdown: kramdown
