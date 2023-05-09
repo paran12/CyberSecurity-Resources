@@ -1,3 +1,7 @@
 title: CyberSecurity Resources
 theme: jekyll-theme-midnight
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 markdown: kramdown
